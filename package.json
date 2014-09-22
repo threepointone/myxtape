@@ -6,13 +6,6 @@
     "start": "node ./bin/www",
     "test": "mocha tests/*.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+ssh://git@bitbucket.org:myntra/myxtape.git"
-  },
-  "publishConfig": {
-    "registry": "http://registry.myntra.com:8000"
-  },
   "dependencies": {
     "async": "^0.9.0",
     "basic-auth": "^1.0.0",
